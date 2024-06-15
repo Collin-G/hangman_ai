@@ -1,1 +1,1 @@
-https://docs.google.com/viewer?url=https://github.com/Collin-G/hangman_ai/blob/master/Collin_Guo_strategy.pdf
+Check Collin_Guo_strategy.pdf for an indepth explanation of the strategy used to solve this hangman game. 
